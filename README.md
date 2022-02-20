@@ -2,4 +2,4 @@
 
 -------
 
-### Práctica de un proyecto Maven utilizando Docker
+## Práctica de un proyecto Maven utilizando Docker
