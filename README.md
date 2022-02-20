@@ -20,6 +20,8 @@ Primero deberemos tener un proyecto Maven o hacer un clon el siguiente repositor
 ##### Ejemplo:
 
 
+![image](https://user-images.githubusercontent.com/91556752/154860392-87306955-528f-4d0e-81d2-8459e1e13e0c.png)
+
 
 ### Crear el contenedor y ejecutarlo:
 
