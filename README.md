@@ -1,14 +1,14 @@
 # Docker-gildedrose-with-maven
 
--------
+
 
 ## Práctica de un proyecto Maven utilizando Docker
 
-----------
+Practica docker: Docker gildedrose con Maven realizado con Matias Gomez, Arturo Garrido y Ramon Sanchez
 
 Primero deberemos tener un proyecto Maven o hacer un clon el siguiente repositorio https://github.com/dfleta/docker-multistage-maven-java.git 
 
----------
+
 
 ### Creamos la imagen:
 
