@@ -8,4 +8,11 @@
 
 Primero deberemos tener un proyecto Maven o hacer un clon el siguiente repositorio https://github.com/dfleta/docker-multistage-maven-java.git 
 
+---------
+
+### Creamos la imagen:
+
+    $ docker build -t gildedrose .
+    
+
 
