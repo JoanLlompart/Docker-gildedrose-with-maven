@@ -25,8 +25,7 @@ Primero deberemos tener un proyecto Maven o hacer un clon el siguiente repositor
 
 ### Crear el contenedor y ejecutarlo:
 
-
-            $ docker run -it --name katagildedrose gildedrose:latest
+    $ docker run -it --name katagildedrose gildedrose:latest
             
  
 ##### Ejemplo:
